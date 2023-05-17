@@ -13,7 +13,7 @@ const Main = () => {
 
         <div>
           <h1 className="py-2 text-xl">
-           <span className="text-red-500 font-bold">Hi, this is Agent </span> Jakub
+           <span className="text-red-500 font-bold">Hi, this is Agent </span> Oh
           </h1>
           <h1 className="py-4">I am a ....</h1>
           <div className="font-bold uppercase text-4xl transition duration-700 ease-in-out text-red-500">
